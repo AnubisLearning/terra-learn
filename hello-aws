@@ -1,0 +1,4 @@
+terraform {
+ providers {
+ provider="hashicorp/aws"}
+}
